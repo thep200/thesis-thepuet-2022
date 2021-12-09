@@ -1,0 +1,5917 @@
+[
+  {
+    "image": "/data/upload/3/dcc65fbf-W80A_0024_val.png",
+    "id": 731,
+    "kp-1": [
+      {
+        "x": 45.60051565914891,
+        "y": 53.25346427818195,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 44.85410385081334,
+        "y": 56.51742376429101,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 36,
+        "y": 50.170648464163826,
+        "width": 18.666666666666668,
+        "height": 11.092150170648464,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 991,
+    "created_at": "2021-11-23T12:51:19.064700Z",
+    "updated_at": "2021-11-24T14:08:10.337027Z",
+    "lead_time": 823.248
+  },
+  {
+    "image": "/data/upload/3/a7d7b48c-W80A_0008_val.png",
+    "id": 730,
+    "kp-1": [
+      {
+        "x": 52.73942297029207,
+        "y": 68.48531420754632,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 52.36310701692289,
+        "y": 71.85674553039311,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 42.79999999999999,
+        "y": 65.35836177474403,
+        "width": 24,
+        "height": 10.06825938566553,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 990,
+    "created_at": "2021-11-23T12:50:59.516423Z",
+    "updated_at": "2021-11-24T14:08:00.532036Z",
+    "lead_time": 813.442
+  },
+  {
+    "image": "/data/upload/3/195f7f34-W80A_0007_val.png",
+    "id": 729,
+    "kp-1": [
+      {
+        "x": 54.77758377740018,
+        "y": 85.37576545619442,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.551398380934856,
+        "y": 88.26939526172099,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 41.86666666666667,
+        "y": 81.02345415778251,
+        "width": 28.799999999999994,
+        "height": 13.646055437100213,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 988,
+    "created_at": "2021-11-23T12:50:43.949666Z",
+    "updated_at": "2021-11-24T14:07:50.686146Z",
+    "lead_time": 803.595
+  },
+  {
+    "image": "/data/upload/3/c1f9ddbb-W80A_0006_val.png",
+    "id": 728,
+    "kp-1": [
+      {
+        "x": 51.54488559257943,
+        "y": 54.67909615754247,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1032,
+        "original_height": 800
+      },
+      {
+        "x": 51.48268460855147,
+        "y": 57.81055705740126,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1032,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.466666666666654,
+        "y": 49.39759036144577,
+        "width": 30.133333333333333,
+        "height": 11.359724612736661,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1032,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 987,
+    "created_at": "2021-11-23T12:50:27.921507Z",
+    "updated_at": "2021-11-24T14:07:42.703920Z",
+    "lead_time": 795.615
+  },
+  {
+    "image": "/data/upload/3/f631547a-W80A_0004_val.png",
+    "id": 727,
+    "kp-1": [
+      {
+        "x": 35.33078285018742,
+        "y": 57.32278772343226,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 35.00365521067145,
+        "y": 59.117125092790936,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 27.733333333333327,
+        "y": 54.26621160409555,
+        "width": 16.666666666666664,
+        "height": 9.556313993174061,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 981,
+    "created_at": "2021-11-23T12:46:47.365080Z",
+    "updated_at": "2021-11-24T14:07:31.165162Z",
+    "lead_time": 784.09
+  },
+  {
+    "image": "/data/upload/3/b0f4b64c-W80A_0004_1_val.png",
+    "id": 726,
+    "kp-1": [
+      {
+        "x": 53.771945745937245,
+        "y": 74.01032219238172,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 53.38958876468481,
+        "y": 76.51151973754833,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 35.86666666666667,
+        "y": 69.6245733788396,
+        "width": 25.866666666666667,
+        "height": 10.750853242320819,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 973,
+    "created_at": "2021-11-23T12:42:29.912103Z",
+    "updated_at": "2021-11-24T14:07:22.743088Z",
+    "lead_time": 775.668
+  },
+  {
+    "image": "/data/upload/3/f19b089a-W80A_0003_val.png",
+    "id": 725,
+    "kp-1": [
+      {
+        "x": 52.73213073126482,
+        "y": 59.35057180133508,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 52.697019897357336,
+        "y": 60.96830646942704,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.53333333333333,
+        "y": 55.972696245733786,
+        "width": 19.46666666666666,
+        "height": 8.020477815699659,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 972,
+    "created_at": "2021-11-23T12:42:13.529041Z",
+    "updated_at": "2021-11-24T14:07:14.912689Z",
+    "lead_time": 767.846
+  },
+  {
+    "image": "/data/upload/3/0c9df191-W80A_0003_2_val.png",
+    "id": 724,
+    "kp-1": [
+      {
+        "x": 62.44366785375534,
+        "y": 70.60250762935249,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 62.970510188472204,
+        "y": 73.29965268762992,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 52.26666666666666,
+        "y": 67.74744027303754,
+        "width": 22.533333333333335,
+        "height": 10.409556313993173,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 971,
+    "created_at": "2021-11-23T12:41:56.923449Z",
+    "updated_at": "2021-11-24T14:07:07.449142Z",
+    "lead_time": 760.381
+  },
+  {
+    "image": "/data/upload/3/2fe99502-W80A_0003_1_val.png",
+    "id": 723,
+    "kp-1": [
+      {
+        "x": 51.74046572803628,
+        "y": 65.44363309146769,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 51.80888681046704,
+        "y": 70.2579096804125,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.733333333333334,
+        "y": 62.47334754797441,
+        "width": 28.133333333333333,
+        "height": 12.57995735607676,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 970,
+    "created_at": "2021-11-23T12:40:20.241097Z",
+    "updated_at": "2021-11-24T14:06:59.773630Z",
+    "lead_time": 752.704
+  },
+  {
+    "image": "/data/upload/3/ad36f71b-W80A_0002_val.png",
+    "id": 722,
+    "kp-1": [
+      {
+        "x": 60.58352435321752,
+        "y": 48.91857730555237,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 60.52132336918957,
+        "y": 51.943710487799784,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48,
+        "y": 45.39249146757679,
+        "width": 24.8,
+        "height": 10.750853242320819,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 969,
+    "created_at": "2021-11-23T12:39:40.767804Z",
+    "updated_at": "2021-11-24T14:06:51.386871Z",
+    "lead_time": 744.319
+  },
+  {
+    "image": "/data/upload/3/98a8d4f1-SS_1B_0001_val.png",
+    "id": 719,
+    "kp-1": [
+      {
+        "x": 51.582726370781884,
+        "y": 64.68774867338057,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 51.349063771127625,
+        "y": 72.53462701997893,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 41.19999999999999,
+        "y": 62.26012793176972,
+        "width": 18,
+        "height": 12.57995735607676,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 968,
+    "created_at": "2021-11-23T12:39:19.899525Z",
+    "updated_at": "2021-11-24T14:06:42.463246Z",
+    "lead_time": 735.406
+  },
+  {
+    "image": "/data/upload/3/2fb7b9ff-SAMSUNG1B_0005_val.png",
+    "id": 717,
+    "kp-1": [
+      {
+        "x": 66.98390310127334,
+        "y": 76.23038600620471,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 67.79251589363687,
+        "y": 79.31391026771891,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 59.73333333333334,
+        "y": 73.13432835820896,
+        "width": 12.533333333333333,
+        "height": 10.874200426439232,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 967,
+    "created_at": "2021-11-23T12:39:05.025980Z",
+    "updated_at": "2021-11-24T14:06:28.183108Z",
+    "lead_time": 721.105
+  },
+  {
+    "image": "/data/upload/3/df1def57-SAMSUNG1B_0005_1_val.png",
+    "id": 716,
+    "kp-1": [
+      {
+        "x": 66.27498929982305,
+        "y": 76.68681499135054,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 67.0397032623279,
+        "y": 79.87991700252044,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 61.333333333333336,
+        "y": 73.34754797441366,
+        "width": 11.866666666666667,
+        "height": 10.23454157782516,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 966,
+    "created_at": "2021-11-23T12:38:51.619049Z",
+    "updated_at": "2021-11-24T14:06:15.160943Z",
+    "lead_time": 708.08
+  },
+  {
+    "image": "/data/upload/3/3afa2cb4-SAMSUNG1B_0004_val.png",
+    "id": 715,
+    "kp-1": [
+      {
+        "x": 59.06174878682999,
+        "y": 81.55649451210961,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.38887642634596,
+        "y": 85.2183710738555,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.26666666666669,
+        "y": 78.67803837953092,
+        "width": 18.93333333333334,
+        "height": 9.594882729211092,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 965,
+    "created_at": "2021-11-23T12:38:36.607275Z",
+    "updated_at": "2021-11-24T14:06:00.721324Z",
+    "lead_time": 693.65
+  },
+  {
+    "image": "/data/upload/3/122de0b7-SAMSUNG1B_0004_5_val.png",
+    "id": 714,
+    "kp-1": [
+      {
+        "x": 42.04638953676066,
+        "y": 43.80135383115132,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 41.87675048941167,
+        "y": 45.6106440119213,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 35.6,
+        "y": 40.955631399317404,
+        "width": 15.333333333333334,
+        "height": 7.167235494880546,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 963,
+    "created_at": "2021-11-23T12:38:20.722456Z",
+    "updated_at": "2021-11-24T14:05:46.091926Z",
+    "lead_time": 679.021
+  },
+  {
+    "image": "/data/upload/3/64277be4-SAMSUNG1B_0004_3_val.png",
+    "id": 712,
+    "kp-1": [
+      {
+        "x": 58.75782531299695,
+        "y": 81.91073920382769,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 58.991487912651216,
+        "y": 85.34841924138505,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.86666666666667,
+        "y": 78.89125799573561,
+        "width": 17.866666666666667,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 961,
+    "created_at": "2021-11-23T12:37:48.433658Z",
+    "updated_at": "2021-11-24T14:05:36.484645Z",
+    "lead_time": 669.418
+  },
+  {
+    "image": "/data/upload/3/f84fd941-SAMSUNG1B_0003_val.png",
+    "id": 709,
+    "kp-1": [
+      {
+        "x": 41.69469397475208,
+        "y": 90.96420069179584,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 41.397305211555754,
+        "y": 92.66265920837557,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 35.86666666666667,
+        "y": 86.35394456289978,
+        "width": 10.933333333333334,
+        "height": 9.594882729211088,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 959,
+    "created_at": "2021-11-23T12:37:25.374485Z",
+    "updated_at": "2021-11-24T14:05:24.888956Z",
+    "lead_time": 657.837
+  },
+  {
+    "image": "/data/upload/3/b427965a-SAMSUNG1B_0003_71_val.png",
+    "id": 707,
+    "kp-1": [
+      {
+        "x": 55.27951159746063,
+        "y": 35.56124465695842,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 55.742163544776076,
+        "y": 38.109611815234636,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 53.78676465075676,
+        "y": 36.35895873224651,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.043863212653214,
+        "y": 38.82418749596301,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.2,
+        "y": 32.6226012793177,
+        "width": 14.266666666666667,
+        "height": 8.955223880597014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 957,
+    "created_at": "2021-11-23T12:37:06.662226Z",
+    "updated_at": "2021-11-24T14:05:16.533706Z",
+    "lead_time": 649.461
+  },
+  {
+    "image": "/data/upload/3/00b8b295-SAMSUNG1B_0003_70_val.png",
+    "id": 706,
+    "kp-1": [
+      {
+        "x": 46.1995121239898,
+        "y": 62.85828438839267,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 46.14296577487345,
+        "y": 65.20935860538297,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 40.40000000000001,
+        "y": 60.12793176972283,
+        "width": 14.266666666666667,
+        "height": 8.315565031982942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 956,
+    "created_at": "2021-11-23T12:36:52.605639Z",
+    "updated_at": "2021-11-24T14:05:05.818918Z",
+    "lead_time": 638.753
+  },
+  {
+    "image": "/data/upload/3/c0717e67-SAMSUNG1B_0003_69_val.png",
+    "id": 705,
+    "kp-1": [
+      {
+        "x": 54.27441177563761,
+        "y": 88.46732431301281,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.27441177563761,
+        "y": 90.45320303933998,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.93333333333333,
+        "y": 85.50106609808103,
+        "width": 12.266666666666667,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 964,
+    "created_at": "2021-11-23T12:38:31.734687Z",
+    "updated_at": "2021-11-24T14:04:37.882983Z",
+    "lead_time": 610.813
+  },
+  {
+    "image": "/data/upload/3/f43f6163-SAMSUNG1B_0003_68_val.png",
+    "id": 704,
+    "kp-1": [
+      {
+        "x": 64.1423884752568,
+        "y": 74.52707018816709,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 64.33555043010011,
+        "y": 75.81329439496466,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 60.53333333333333,
+        "y": 71.64179104477611,
+        "width": 10.533333333333333,
+        "height": 6.3965884861407245,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 958,
+    "created_at": "2021-11-23T12:37:18.380002Z",
+    "updated_at": "2021-11-24T14:04:30.478336Z",
+    "lead_time": 603.404
+  },
+  {
+    "image": "/data/upload/3/5f4496e3-SAMSUNG1B_0003_67_val.png",
+    "id": 703,
+    "kp-1": [
+      {
+        "x": 52.23369866997605,
+        "y": 47.51416503482125,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 52.23369866997605,
+        "y": 49.027389549647054,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 45.86666666666667,
+        "y": 45.22184300341297,
+        "width": 14.399999999999997,
+        "height": 6.143344709897611,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 955,
+    "created_at": "2021-11-23T12:36:31.626446Z",
+    "updated_at": "2021-11-24T14:04:22.095928Z",
+    "lead_time": 595.019
+  },
+  {
+    "image": "/data/upload/3/7ffecb1c-SAMSUNG1B_0003_66_val.png",
+    "id": 702,
+    "kp-1": [
+      {
+        "x": 70.39233160268894,
+        "y": 69.10034797092099,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 70.8277384908847,
+        "y": 70.89078141309055,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 66.53333333333333,
+        "y": 67.16417910447761,
+        "width": 9.333333333333334,
+        "height": 6.823027718550106,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 954,
+    "created_at": "2021-11-23T12:36:18.785696Z",
+    "updated_at": "2021-11-24T14:04:13.253412Z",
+    "lead_time": 586.168
+  },
+  {
+    "image": "/data/upload/3/c2db69c5-SAMSUNG1B_0003_65_val.png",
+    "id": 701,
+    "kp-1": [
+      {
+        "x": 55.403339365560484,
+        "y": 75.87037015876848,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 55.56293406513993,
+        "y": 77.25933426773634,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.466666666666654,
+        "y": 74.06143344709898,
+        "width": 12,
+        "height": 4.948805460750854,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 953,
+    "created_at": "2021-11-23T12:36:01.522286Z",
+    "updated_at": "2021-11-24T14:04:04.315809Z",
+    "lead_time": 577.235
+  },
+  {
+    "image": "/data/upload/3/5b79ea82-SAMSUNG1B_0003_63_val.png",
+    "id": 699,
+    "kp-1": [
+      {
+        "x": 44.31817785912754,
+        "y": 73.68022149011558,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 44.16396054335573,
+        "y": 75.32432933416476,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.466666666666654,
+        "y": 69.7228144989339,
+        "width": 10.533333333333333,
+        "height": 8.102345415778254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 950,
+    "created_at": "2021-11-23T12:35:43.807538Z",
+    "updated_at": "2021-11-24T14:03:55.295821Z",
+    "lead_time": 568.212
+  },
+  {
+    "image": "/data/upload/3/038c8125-SAMSUNG1B_0003_62_val.png",
+    "id": 698,
+    "kp-1": [
+      {
+        "x": 43.83786347615773,
+        "y": 81.9712846986137,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.965315803241865,
+        "y": 83.66974321519344,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.733333333333334,
+        "y": 79.317697228145,
+        "width": 12.266666666666667,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 949,
+    "created_at": "2021-11-23T12:35:23.249656Z",
+    "updated_at": "2021-11-24T14:03:46.612785Z",
+    "lead_time": 559.53
+  },
+  {
+    "image": "/data/upload/3/6e6b5d50-SAMSUNG1B_0003_61_val.png",
+    "id": 697,
+    "kp-1": [
+      {
+        "x": 57.001511607262735,
+        "y": 76.0835985348204,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 57.1417091670553,
+        "y": 77.87717072832858,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.8,
+        "y": 74.20042643923242,
+        "width": 13.866666666666664,
+        "height": 6.609808102345416,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 948,
+    "created_at": "2021-11-23T12:35:07.183710Z",
+    "updated_at": "2021-11-24T14:03:37.442767Z",
+    "lead_time": 550.363
+  },
+  {
+    "image": "/data/upload/3/8a6e90a6-SAMSUNG1B_0003_60_val.png",
+    "id": 696,
+    "kp-1": [
+      {
+        "x": 60.672731962477656,
+        "y": 76.65089113120357,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 60.98436658295821,
+        "y": 78.76750168590964,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.333333333333336,
+        "y": 74.20042643923242,
+        "width": 11.466666666666667,
+        "height": 6.3965884861407245,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 952,
+    "created_at": "2021-11-23T12:35:59.924265Z",
+    "updated_at": "2021-11-24T14:03:17.427991Z",
+    "lead_time": 530.298
+  },
+  {
+    "image": "/data/upload/3/8251cf6a-SAMSUNG1B_0003_59_val.png",
+    "id": 695,
+    "kp-1": [
+      {
+        "x": 54.97563719049932,
+        "y": 82.27035905493686,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 55.11728929071776,
+        "y": 83.91158114281056,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.93333333333333,
+        "y": 79.317697228145,
+        "width": 11.466666666666667,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 951,
+    "created_at": "2021-11-23T12:35:44.265542Z",
+    "updated_at": "2021-11-24T14:03:06.479866Z",
+    "lead_time": 519.393
+  },
+  {
+    "image": "/data/upload/3/54d02235-SAMSUNG1B_0003_58_val.png",
+    "id": 694,
+    "kp-1": [
+      {
+        "x": 63.07251396840852,
+        "y": 75.02424027764364,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 63.22700163760143,
+        "y": 76.8153419860368,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.86666666666667,
+        "y": 72.92110874200426,
+        "width": 10.133333333333333,
+        "height": 5.756929637526652,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 946,
+    "created_at": "2021-11-23T12:33:42.122387Z",
+    "updated_at": "2021-11-24T14:02:57.712475Z",
+    "lead_time": 510.638
+  },
+  {
+    "image": "/data/upload/3/b9270cb8-SAMSUNG1B_0003_57_val.png",
+    "id": 693,
+    "kp-1": [
+      {
+        "x": 59.16201847713793,
+        "y": 76.92849500678341,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.30246181276784,
+        "y": 78.05144278634023,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 54.4,
+        "y": 72.70788912579957,
+        "width": 10.66666666666668,
+        "height": 9.168443496801704,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 945,
+    "created_at": "2021-11-23T12:33:27.518415Z",
+    "updated_at": "2021-11-24T14:02:46.595304Z",
+    "lead_time": 499.53
+  },
+  {
+    "image": "/data/upload/3/55d7c71a-SAMSUNG1B_0003_55_val.png",
+    "id": 691,
+    "kp-1": [
+      {
+        "x": 47.912029393078924,
+        "y": 81.20641490948309,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 47.997728913711086,
+        "y": 83.12381505904035,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.6,
+        "y": 76.97228144989339,
+        "width": 16.666666666666664,
+        "height": 8.315565031982942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 962,
+    "created_at": "2021-11-23T12:38:00.996355Z",
+    "updated_at": "2021-11-24T14:02:32.047094Z",
+    "lead_time": 484.951
+  },
+  {
+    "image": "/data/upload/3/e9fb4f16-SAMSUNG1B_0003_54_val.png",
+    "id": 690,
+    "kp-1": [
+      {
+        "x": 56.0964851268216,
+        "y": 72.30275829753018,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 56.20272420198542,
+        "y": 73.6629403962186,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 52.93333333333333,
+        "y": 70.64846416382252,
+        "width": 8,
+        "height": 4.436860068259386,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 960,
+    "created_at": "2021-11-23T12:37:44.385901Z",
+    "updated_at": "2021-11-24T14:02:22.928771Z",
+    "lead_time": 475.85
+  },
+  {
+    "image": "/data/upload/3/1cf08c37-SAMSUNG1B_0003_53_val.png",
+    "id": 689,
+    "kp-1": [
+      {
+        "x": 41.66162963318365,
+        "y": 91.02793908423925,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 41.387945303460604,
+        "y": 92.7785851165828,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 30.933333333333334,
+        "y": 85.71428571428571,
+        "width": 16.933333333333334,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 944,
+    "created_at": "2021-11-23T12:33:02.036079Z",
+    "updated_at": "2021-11-24T14:02:13.327954Z",
+    "lead_time": 466.257
+  },
+  {
+    "image": "/data/upload/3/3c456d19-SAMSUNG1B_0003_50_val.png",
+    "id": 686,
+    "kp-1": [
+      {
+        "x": 46.375776925740965,
+        "y": 83.37518334854829,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 46.31923057662465,
+        "y": 85.7262575655386,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.333333333333336,
+        "y": 80.17057569296375,
+        "width": 22,
+        "height": 8.955223880597014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 943,
+    "created_at": "2021-11-23T12:32:37.285543Z",
+    "updated_at": "2021-11-24T14:02:03.232990Z",
+    "lead_time": 456.152
+  },
+  {
+    "image": "/data/upload/3/e2fcdb88-SAMSUNG1B_0003_49_val.png",
+    "id": 685,
+    "kp-1": [
+      {
+        "x": 65.02089141638595,
+        "y": 69.46143268537584,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 65.22651450408169,
+        "y": 71.08477285139489,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 59.333333333333336,
+        "y": 65.26315789473686,
+        "width": 12.8,
+        "height": 9.263157894736842,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 942,
+    "created_at": "2021-11-23T12:31:51.650635Z",
+    "updated_at": "2021-11-24T14:01:51.728599Z",
+    "lead_time": 444.642
+  },
+  {
+    "image": "/data/upload/3/ea10d917-SAMSUNG1B_0003_48_val.png",
+    "id": 684,
+    "kp-1": [
+      {
+        "x": 63.03086769314676,
+        "y": 67.86958746931683,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 63.1583200202309,
+        "y": 69.36423096390698,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 58.4,
+        "y": 65.45842217484007,
+        "width": 12,
+        "height": 6.183368869936034,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 941,
+    "created_at": "2021-11-23T12:31:36.641909Z",
+    "updated_at": "2021-11-24T14:01:37.479872Z",
+    "lead_time": 430.398
+  },
+  {
+    "image": "/data/upload/3/eed1e6f1-SAMSUNG1B_0003_46_val.png",
+    "id": 682,
+    "kp-1": [
+      {
+        "x": 48.67700423726262,
+        "y": 69.1096213942006,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 48.67700423726262,
+        "y": 71.41137237586945,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 41.733333333333334,
+        "y": 65.67164179104478,
+        "width": 14.399999999999997,
+        "height": 9.594882729211088,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 940,
+    "created_at": "2021-11-23T12:31:14.909157Z",
+    "updated_at": "2021-11-24T14:00:17.185984Z",
+    "lead_time": 350.104
+  },
+  {
+    "image": "/data/upload/3/aa62a514-SAMSUNG1B_0003_44_val.png",
+    "id": 680,
+    "kp-1": [
+      {
+        "x": 40.72710028280876,
+        "y": 63.73295111911716,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 40.68847836551053,
+        "y": 65.33876644388344,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.066666666666656,
+        "y": 60.55437100213219,
+        "width": 12.533333333333333,
+        "height": 9.168443496801707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 939,
+    "created_at": "2021-11-23T12:30:48.205432Z",
+    "updated_at": "2021-11-24T13:59:44.788561Z",
+    "lead_time": 317.713
+  },
+  {
+    "image": "/data/upload/3/490f2398-SAMSUNG1B_0003_42_val.png",
+    "id": 678,
+    "kp-1": [
+      {
+        "x": 40.4457803878553,
+        "y": 71.95529255790689,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 40.4457803878553,
+        "y": 74.3624308523793,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 32.4,
+        "y": 67.80383795309169,
+        "width": 15.6,
+        "height": 10.874200426439232,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 938,
+    "created_at": "2021-11-23T12:30:25.572168Z",
+    "updated_at": "2021-11-24T13:59:36.455057Z",
+    "lead_time": 309.378
+  },
+  {
+    "image": "/data/upload/3/eec8f65b-SAMSUNG1B_0003_41_val.png",
+    "id": 677,
+    "kp-1": [
+      {
+        "x": 26.610626700173555,
+        "y": 85.86893738463382,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 26.884311029896597,
+        "y": 88.05724492506327,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 20.399999999999995,
+        "y": 82.30277185501066,
+        "width": 16.8,
+        "height": 10.447761194029852,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 937,
+    "created_at": "2021-11-23T12:30:13.597945Z",
+    "updated_at": "2021-11-24T13:59:26.118654Z",
+    "lead_time": 299.043
+  },
+  {
+    "image": "/data/upload/3/22a0eb10-SAMSUNG1B_0003_40_val.png",
+    "id": 676,
+    "kp-1": [
+      {
+        "x": 44.91482632346193,
+        "y": 73.707385200385,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 44.863420551538,
+        "y": 75.26928765223172,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.066666666666656,
+        "y": 70.57569296375266,
+        "width": 11.466666666666667,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 936,
+    "created_at": "2021-11-23T12:29:57.960757Z",
+    "updated_at": "2021-11-24T13:59:17.696941Z",
+    "lead_time": 290.609
+  },
+  {
+    "image": "/data/upload/3/3fb25c2a-SAMSUNG1B_0003_39_val.png",
+    "id": 675,
+    "kp-1": [
+      {
+        "x": 36.99748033609089,
+        "y": 79.78910776475028,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 36.99748033609089,
+        "y": 81.18066513348697,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 29.733333333333334,
+        "y": 76.33262260127934,
+        "width": 11.066666666666666,
+        "height": 7.6759061833688715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 947,
+    "created_at": "2021-11-23T12:34:31.097640Z",
+    "updated_at": "2021-11-24T13:59:09.338019Z",
+    "lead_time": 282.257
+  },
+  {
+    "image": "/data/upload/3/999b8209-SAMSUNG1B_0003_38_val.png",
+    "id": 674,
+    "kp-1": [
+      {
+        "x": 40.48676143813542,
+        "y": 77.69482519628689,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 40.43535566621148,
+        "y": 79.66775460914589,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 33.46666666666667,
+        "y": 73.77398720682304,
+        "width": 12.933333333333334,
+        "height": 10.660980810234541,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 935,
+    "created_at": "2021-11-23T12:29:41.031926Z",
+    "updated_at": "2021-11-24T13:59:01.650191Z",
+    "lead_time": 274.571
+  },
+  {
+    "image": "/data/upload/3/4d68d941-SAMSUNG1B_0003_37_val.png",
+    "id": 673,
+    "kp-1": [
+      {
+        "x": 52.62311197886255,
+        "y": 60.412951295749764,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 52.71657701872426,
+        "y": 62.207288665108436,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.4,
+        "y": 56.8259385665529,
+        "width": 13.600000000000003,
+        "height": 8.361774744027302,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 934,
+    "created_at": "2021-11-23T12:29:13.536729Z",
+    "updated_at": "2021-11-24T13:58:51.552408Z",
+    "lead_time": 264.467
+  },
+  {
+    "image": "/data/upload/3/f2125379-SAMSUNG1B_0003_35_val.png",
+    "id": 671,
+    "kp-1": [
+      {
+        "x": 55.38837515709586,
+        "y": 35.667084331533864,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 55.88598302931958,
+        "y": 38.25326597022322,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.53333333333333,
+        "y": 29.85074626865671,
+        "width": 17.33333333333334,
+        "height": 11.940298507462686,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 933,
+    "created_at": "2021-11-23T12:28:57.557094Z",
+    "updated_at": "2021-11-24T13:58:41.648943Z",
+    "lead_time": 254.575
+  },
+  {
+    "image": "/data/upload/3/4b453e15-SAMSUNG1B_0003_34_val.png",
+    "id": 670,
+    "kp-1": [
+      {
+        "x": 45.800479620271375,
+        "y": 62.66389446440716,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 45.85702596938771,
+        "y": 65.19582054424289,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.20000000000001,
+        "y": 59.06183368869936,
+        "width": 16.266666666666666,
+        "height": 9.594882729211088,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 932,
+    "created_at": "2021-11-23T12:28:42.807885Z",
+    "updated_at": "2021-11-24T13:58:02.041885Z",
+    "lead_time": 214.967
+  },
+  {
+    "image": "/data/upload/3/694a31a6-SAMSUNG1B_0003_31_val.png",
+    "id": 667,
+    "kp-1": [
+      {
+        "x": 52.237954404945455,
+        "y": 47.411959793610514,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 52.237954404945455,
+        "y": 49.056769048855955,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.40000000000001,
+        "y": 44.7098976109215,
+        "width": 14.933333333333335,
+        "height": 7.337883959044369,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 931,
+    "created_at": "2021-11-23T12:28:11.041990Z",
+    "updated_at": "2021-11-24T13:57:52.781312Z",
+    "lead_time": 205.701
+  },
+  {
+    "image": "/data/upload/3/1df47da2-SAMSUNG1B_0003_30_val.png",
+    "id": 666,
+    "kp-1": [
+      {
+        "x": 70.39761100402828,
+        "y": 69.00786788901853,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 70.7799679852807,
+        "y": 70.84220308692464,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 65.06666666666666,
+        "y": 66.31130063965884,
+        "width": 10.66666666666667,
+        "height": 10.021321961620469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 930,
+    "created_at": "2021-11-23T12:27:55.665928Z",
+    "updated_at": "2021-11-24T13:57:44.642746Z",
+    "lead_time": 197.573
+  },
+  {
+    "image": "/data/upload/3/866ea8e6-SAMSUNG1B_0003_27_val.png",
+    "id": 663,
+    "kp-1": [
+      {
+        "x": 43.7924400275458,
+        "y": 81.93958006213165,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.905532725778464,
+        "y": 83.74809869058575,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 38.80000000000001,
+        "y": 79.317697228145,
+        "width": 11.600000000000003,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 929,
+    "created_at": "2021-11-23T12:27:25.406215Z",
+    "updated_at": "2021-11-24T13:57:35.807191Z",
+    "lead_time": 188.735
+  },
+  {
+    "image": "/data/upload/3/471f3bd4-SAMSUNG1B_0003_26_val.png",
+    "id": 662,
+    "kp-1": [
+      {
+        "x": 58.03725992689792,
+        "y": 76.10105707469718,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 58.09380627601425,
+        "y": 77.81914977172858,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 51.46666666666667,
+        "y": 73.98720682302772,
+        "width": 13.600000000000003,
+        "height": 7.249466950959488,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 928,
+    "created_at": "2021-11-23T12:27:11.695454Z",
+    "updated_at": "2021-11-24T13:57:26.131431Z",
+    "lead_time": 179.053
+  },
+  {
+    "image": "/data/upload/3/97b27895-SAMSUNG1B_0003_25_val.png",
+    "id": 661,
+    "kp-1": [
+      {
+        "x": 62.74277483345083,
+        "y": 75.66886550971199,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 63.082052928148826,
+        "y": 77.5678100695888,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.33333333333332,
+        "y": 70.14925373134328,
+        "width": 14.66666666666669,
+        "height": 12.153518123667348,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 927,
+    "created_at": "2021-11-23T12:26:56.192884Z",
+    "updated_at": "2021-11-24T13:57:15.828383Z",
+    "lead_time": 168.756
+  },
+  {
+    "image": "/data/upload/3/721be61f-SAMSUNG1B_0003_23_val.png",
+    "id": 659,
+    "kp-1": [
+      {
+        "x": 60.19892338262929,
+        "y": 76.6347600648344,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 60.392032969120415,
+        "y": 77.68471623872004,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.59999999999999,
+        "y": 72.49466950959487,
+        "width": 10.4,
+        "height": 8.102345415778254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 926,
+    "created_at": "2021-11-23T12:26:35.036850Z",
+    "updated_at": "2021-11-24T13:56:55.794630Z",
+    "lead_time": 148.711
+  },
+  {
+    "image": "/data/upload/3/909bd31e-SAMSUNG1B_0003_22_val.png",
+    "id": 658,
+    "kp-1": [
+      {
+        "x": 59.27069672893487,
+        "y": 76.83606959521897,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.38656248082955,
+        "y": 78.00955002485587,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 55.06666666666667,
+        "y": 73.77398720682304,
+        "width": 11.733333333333333,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 925,
+    "created_at": "2021-11-23T12:26:15.674984Z",
+    "updated_at": "2021-11-24T13:56:44.188375Z",
+    "lead_time": 137.109
+  },
+  {
+    "image": "/data/upload/3/8f5296db-SAMSUNG1B_0003_20_val.png",
+    "id": 656,
+    "kp-1": [
+      {
+        "x": 40.332001490274806,
+        "y": 72.19374679254908,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 40.332001490274806,
+        "y": 74.45439507811668,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 32.93333333333333,
+        "y": 68.23027718550107,
+        "width": 14.533333333333335,
+        "height": 9.808102345415778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 924,
+    "created_at": "2021-11-23T12:25:57.705943Z",
+    "updated_at": "2021-11-24T13:56:26.702058Z",
+    "lead_time": 119.618
+  },
+  {
+    "image": "/data/upload/3/7cda5989-SAMSUNG1B_0003_19_val.png",
+    "id": 655,
+    "kp-1": [
+      {
+        "x": 45.161863311493065,
+        "y": 73.54303078850305,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 45.11390096751727,
+        "y": 75.26875478549977,
+        "width": 0.26666666666666666,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.6,
+        "y": 71.21535181236673,
+        "width": 11.2,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 923,
+    "created_at": "2021-11-23T12:25:44.389856Z",
+    "updated_at": "2021-11-24T13:56:18.755527Z",
+    "lead_time": 111.668
+  },
+  {
+    "image": "/data/upload/3/4984d01a-SAMSUNG1B_0003_18_val.png",
+    "id": 654,
+    "kp-1": [
+      {
+        "x": 37.635023677753566,
+        "y": 79.7165981868633,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 37.65701238012399,
+        "y": 81.1222116906377,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 30.8,
+        "y": 76.54584221748401,
+        "width": 10.533333333333333,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 526,
+    "created_at": "2021-11-22T15:32:49.533308Z",
+    "updated_at": "2021-11-22T15:48:36.227962Z",
+    "lead_time": 876.735
+  },
+  {
+    "image": "/data/upload/3/a1c20c48-SAMSUNG1B_0003_17_val.png",
+    "id": 653,
+    "kp-1": [
+      {
+        "x": 43.795821305387065,
+        "y": 69.09924196065154,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.72985519827576,
+        "y": 71.48878491706803,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.466666666666654,
+        "y": 66.9509594882729,
+        "width": 11.333333333333334,
+        "height": 8.528784648187633,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 525,
+    "created_at": "2021-11-22T15:32:22.656439Z",
+    "updated_at": "2021-11-22T15:48:23.681462Z",
+    "lead_time": 864.303
+  },
+  {
+    "image": "/data/upload/3/b7721539-SAMSUNG1B_0003_16_val.png",
+    "id": 652,
+    "kp-1": [
+      {
+        "x": 39.2512470343936,
+        "y": 77.81887968448689,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 39.20524915022759,
+        "y": 79.7064340631349,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 33.06666666666666,
+        "y": 73.98720682302772,
+        "width": 15.866666666666667,
+        "height": 11.513859275053305,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 524,
+    "created_at": "2021-11-22T15:31:58.673617Z",
+    "updated_at": "2021-11-22T15:48:16.940369Z",
+    "lead_time": 857.457
+  },
+  {
+    "image": "/data/upload/3/d95dc008-SAMSUNG1B_0003_15_val.png",
+    "id": 651,
+    "kp-1": [
+      {
+        "x": 43.57627814510839,
+        "y": 63.77532568501328,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.664232954590126,
+        "y": 65.39178121435386,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 36.666666666666664,
+        "y": 60.55437100213219,
+        "width": 12.266666666666667,
+        "height": 8.315565031982942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 523,
+    "created_at": "2021-11-22T15:31:32.853207Z",
+    "updated_at": "2021-11-22T15:48:10.600062Z",
+    "lead_time": 851.191
+  },
+  {
+    "image": "/data/upload/3/78b245d3-SAMSUNG1B_0003_13_val.png",
+    "id": 649,
+    "kp-1": [
+      {
+        "x": 63.516958234162914,
+        "y": 68.98291169816403,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 63.665902825088786,
+        "y": 70.31191059733948,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 56.8,
+        "y": 65.0319829424307,
+        "width": 13.466666666666665,
+        "height": 8.955223880597014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 522,
+    "created_at": "2021-11-22T15:31:05.259147Z",
+    "updated_at": "2021-11-22T15:48:03.820429Z",
+    "lead_time": 844.409
+  },
+  {
+    "image": "/data/upload/3/b76bc34b-SAMSUNG1B_0003_11_val.png",
+    "id": 647,
+    "kp-1": [
+      {
+        "x": 46.53270044022522,
+        "y": 68.98835539867935,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 46.6662628244132,
+        "y": 71.73414621124546,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 41.333333333333336,
+        "y": 65.88486140724945,
+        "width": 15.066666666666666,
+        "height": 8.955223880597014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 521,
+    "created_at": "2021-11-22T15:18:31.150474Z",
+    "updated_at": "2021-11-22T15:47:50.321361Z",
+    "lead_time": 831.028
+  },
+  {
+    "image": "/data/upload/3/386bc914-SAMSUNG1B_0003_10_val.png",
+    "id": 646,
+    "kp-1": [
+      {
+        "x": 40.00944207019944,
+        "y": 66.05030357130283,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 40.150846279242494,
+        "y": 68.2347701702627,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 33.33333333333333,
+        "y": 61.19402985074627,
+        "width": 11.466666666666667,
+        "height": 10.021321961620469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 520,
+    "created_at": "2021-11-22T15:18:08.094257Z",
+    "updated_at": "2021-11-22T15:47:40.999042Z",
+    "lead_time": 821.698
+  },
+  {
+    "image": "/data/upload/3/72db85fc-SAMSUNG1B_0003_9_val.png",
+    "id": 645,
+    "kp-1": [
+      {
+        "x": 64.71996946464657,
+        "y": 67.38767253350753,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 64.97751873777102,
+        "y": 69.23983539129603,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 59.333333333333336,
+        "y": 65.2452025586354,
+        "width": 10.66666666666667,
+        "height": 6.609808102345416,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 519,
+    "created_at": "2021-11-22T15:15:18.814183Z",
+    "updated_at": "2021-11-22T15:47:33.882900Z",
+    "lead_time": 814.582
+  },
+  {
+    "image": "/data/upload/3/b2d77457-SAMSUNG1B_0003_8_val.png",
+    "id": 644,
+    "kp-1": [
+      {
+        "x": 62.31305543653242,
+        "y": 70.30499832474902,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 62.44160471748065,
+        "y": 71.72624878607388,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 59.06666666666667,
+        "y": 66.73684210526318,
+        "width": 11.466666666666667,
+        "height": 8.210526315789476,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 518,
+    "created_at": "2021-11-22T15:14:57.089489Z",
+    "updated_at": "2021-11-22T15:47:26.506108Z",
+    "lead_time": 807.212
+  },
+  {
+    "image": "/data/upload/3/d4262191-SAMSUNG1B_0003_7_val.png",
+    "id": 643,
+    "kp-1": [
+      {
+        "x": 56.92285593655978,
+        "y": 75.73740277763969,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 57.06450803677823,
+        "y": 77.32428189277617,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48,
+        "y": 73.72013651877133,
+        "width": 12.533333333333333,
+        "height": 6.313993174061432,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 517,
+    "created_at": "2021-11-22T15:14:41.074575Z",
+    "updated_at": "2021-11-22T15:47:19.383538Z",
+    "lead_time": 800.103
+  },
+  {
+    "image": "/data/upload/3/700c1399-SAMSUNG1B_0003_6_val.png",
+    "id": 642,
+    "kp-1": [
+      {
+        "x": 49.120201853666885,
+        "y": 60.915073802097304,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 49.282815634508694,
+        "y": 62.74528607201763,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.733333333333334,
+        "y": 58.53242320819114,
+        "width": 15.333333333333334,
+        "height": 6.65529010238908,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 516,
+    "created_at": "2021-11-22T14:48:12.846405Z",
+    "updated_at": "2021-11-22T15:47:12.231365Z",
+    "lead_time": 792.937
+  },
+  {
+    "image": "/data/upload/3/11c933b9-SAMSUNG1B_0003_5_val.png",
+    "id": 641,
+    "kp-1": [
+      {
+        "x": 56.76129405817437,
+        "y": 72.2057473253847,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 56.93835918344744,
+        "y": 73.61126882736275,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 53.2,
+        "y": 70.13651877133105,
+        "width": 10.133333333333333,
+        "height": 4.436860068259386,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 515,
+    "created_at": "2021-11-22T14:47:47.993982Z",
+    "updated_at": "2021-11-22T15:47:04.280051Z",
+    "lead_time": 784.99
+  },
+  {
+    "image": "/data/upload/3/5f8c248e-SAMSUNG1B_0003_4_val.png",
+    "id": 640,
+    "kp-1": [
+      {
+        "x": 47.9501098155137,
+        "y": 81.06639032999449,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 48.00195802549615,
+        "y": 83.05500819939247,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.86666666666667,
+        "y": 76.97228144989339,
+        "width": 15.6,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 513,
+    "created_at": "2021-11-22T14:39:41.529661Z",
+    "updated_at": "2021-11-22T15:46:55.913446Z",
+    "lead_time": 776.625
+  },
+  {
+    "image": "/data/upload/3/b74392ca-SAMSUNG1B_0003_3_val.png",
+    "id": 639,
+    "kp-1": [
+      {
+        "x": 61.22874330611909,
+        "y": 77.42291866889643,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 61.30856229572377,
+        "y": 78.51297194107349,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.53333333333333,
+        "y": 74.57337883959045,
+        "width": 14.933333333333335,
+        "height": 5.972696245733787,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 514,
+    "created_at": "2021-11-22T14:47:24.644224Z",
+    "updated_at": "2021-11-22T15:46:47.412280Z",
+    "lead_time": 768.125
+  },
+  {
+    "image": "/data/upload/3/4d10242e-SAMSUNG1B_0002_val.png",
+    "id": 636,
+    "kp-1": [
+      {
+        "x": 63.16773551319386,
+        "y": 80.5822989148167,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 63.52186576373995,
+        "y": 84.16199311099113,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.86666666666667,
+        "y": 78.3157894736842,
+        "width": 23.466666666666665,
+        "height": 9.263157894736842,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 512,
+    "created_at": "2021-11-22T14:38:53.299053Z",
+    "updated_at": "2021-11-22T15:46:36.112651Z",
+    "lead_time": 756.822
+  },
+  {
+    "image": "/data/upload/3/6cb6c8a5-SAMSUNG1B_0002_41_val.png",
+    "id": 635,
+    "kp-1": [
+      {
+        "x": 55.440278248570955,
+        "y": 49.63114398270315,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      },
+      {
+        "x": 55.509288216057605,
+        "y": 51.49362591890169,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.733333333333334,
+        "y": 47.08904109589041,
+        "width": 16.53333333333333,
+        "height": 7.534246575342466,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 511,
+    "created_at": "2021-11-22T14:38:31.248594Z",
+    "updated_at": "2021-11-22T15:46:25.214702Z",
+    "lead_time": 745.912
+  },
+  {
+    "image": "/data/upload/3/a4920f95-SAMSUNG1B_0002_40_val.png",
+    "id": 634,
+    "kp-1": [
+      {
+        "x": 59.30939649122802,
+        "y": 60.885243807159505,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.39289855188688,
+        "y": 63.82104202493327,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 45.333333333333336,
+        "y": 55.65031982942432,
+        "width": 28.266666666666673,
+        "height": 13.219616204690832,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 510,
+    "created_at": "2021-11-22T14:38:13.720426Z",
+    "updated_at": "2021-11-22T15:46:17.142863Z",
+    "lead_time": 737.852
+  },
+  {
+    "image": "/data/upload/3/5d5956e7-SAMSUNG1B_0002_39_val.png",
+    "id": 633,
+    "kp-1": [
+      {
+        "x": 53.27563367473841,
+        "y": 77.53303544531074,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 53.401106342895936,
+        "y": 80.34030100427753,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.266666666666666,
+        "y": 73.98720682302772,
+        "width": 22.666666666666668,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 509,
+    "created_at": "2021-11-22T14:37:58.670817Z",
+    "updated_at": "2021-11-22T15:46:06.214751Z",
+    "lead_time": 726.921
+  },
+  {
+    "image": "/data/upload/3/5e3832bc-SAMSUNG1B_0002_38_val.png",
+    "id": 632,
+    "kp-1": [
+      {
+        "x": 53.226543460314005,
+        "y": 78.40037215722742,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 53.226543460314005,
+        "y": 80.50951232174043,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.86666666666667,
+        "y": 74.84008528784648,
+        "width": 13.466666666666665,
+        "height": 8.315565031982942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 508,
+    "created_at": "2021-11-22T14:37:33.031270Z",
+    "updated_at": "2021-11-22T15:45:57.932731Z",
+    "lead_time": 718.639
+  },
+  {
+    "image": "/data/upload/3/1f401067-SAMSUNG1B_0002_36_val.png",
+    "id": 630,
+    "kp-1": [
+      {
+        "x": 63.11724325583933,
+        "y": 80.47326609690656,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 63.54574085900011,
+        "y": 84.06023154691695,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 52.666666666666664,
+        "y": 77.89473684210526,
+        "width": 18.8,
+        "height": 10.73684210526316,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 507,
+    "created_at": "2021-11-22T14:37:04.582934Z",
+    "updated_at": "2021-11-22T15:45:46.698020Z",
+    "lead_time": 707.408
+  },
+  {
+    "image": "/data/upload/3/b7660e60-SAMSUNG1B_0002_35_val.png",
+    "id": 629,
+    "kp-1": [
+      {
+        "x": 51.094395060783604,
+        "y": 67.95788849183886,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 51.1514280917643,
+        "y": 69.32506327704996,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.333333333333336,
+        "y": 64.81876332622603,
+        "width": 13.2,
+        "height": 7.6759061833688715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 506,
+    "created_at": "2021-11-22T14:36:47.953642Z",
+    "updated_at": "2021-11-22T15:45:36.751426Z",
+    "lead_time": 697.461
+  },
+  {
+    "image": "/data/upload/3/d9ffee62-SAMSUNG1B_0002_34_val.png",
+    "id": 628,
+    "kp-1": [
+      {
+        "x": 54.8388156054407,
+        "y": 59.73117550245844,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.96428827359824,
+        "y": 61.53584621893708,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.533333333333346,
+        "y": 57.142857142857125,
+        "width": 16.400000000000002,
+        "height": 5.970149253731343,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 505,
+    "created_at": "2021-11-22T14:36:30.088434Z",
+    "updated_at": "2021-11-22T15:45:28.469328Z",
+    "lead_time": 689.191
+  },
+  {
+    "image": "/data/upload/3/eb8b5027-SAMSUNG1B_0002_33_val.png",
+    "id": 627,
+    "kp-1": [
+      {
+        "x": 44.55877891059032,
+        "y": 76.9069610719044,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 44.496042576511556,
+        "y": 78.71163178838306,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.20000000000001,
+        "y": 72.49466950959487,
+        "width": 13.2,
+        "height": 9.168443496801707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 504,
+    "created_at": "2021-11-22T14:36:13.537859Z",
+    "updated_at": "2021-11-22T15:45:20.926943Z",
+    "lead_time": 681.631
+  },
+  {
+    "image": "/data/upload/3/e16782ac-SAMSUNG1B_0002_32_val.png",
+    "id": 626,
+    "kp-1": [
+      {
+        "x": 33.1877331262906,
+        "y": 86.27873372263915,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 33.0736670643292,
+        "y": 87.73705349353096,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 26.533333333333335,
+        "y": 81.87633262260128,
+        "width": 12.133333333333333,
+        "height": 10.021321961620469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 503,
+    "created_at": "2021-11-22T14:35:19.047545Z",
+    "updated_at": "2021-11-22T15:45:13.968091Z",
+    "lead_time": 674.667
+  },
+  {
+    "image": "/data/upload/3/48dc0991-SAMSUNG1B_0002_30_val.png",
+    "id": 624,
+    "kp-1": [
+      {
+        "x": 54.72052301137265,
+        "y": 83.4304449333817,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.94865513529545,
+        "y": 84.7976197185928,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 51.333333333333336,
+        "y": 80.38379530916845,
+        "width": 6.533333333333332,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 502,
+    "created_at": "2021-11-22T14:34:55.148266Z",
+    "updated_at": "2021-11-22T15:45:06.323199Z",
+    "lead_time": 667.017
+  },
+  {
+    "image": "/data/upload/3/db3fcfed-SAMSUNG1B_0002_29_val.png",
+    "id": 623,
+    "kp-1": [
+      {
+        "x": 69.33966447788755,
+        "y": 74.2356273236782,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 69.45373053984895,
+        "y": 75.78509208025078,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 64.53333333333333,
+        "y": 71.64179104477611,
+        "width": 11.866666666666667,
+        "height": 6.823027718550106,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 501,
+    "created_at": "2021-11-22T14:34:38.569660Z",
+    "updated_at": "2021-11-22T15:44:58.691358Z",
+    "lead_time": 659.403
+  },
+  {
+    "image": "/data/upload/3/6b1d0e8b-SAMSUNG1B_0002_28_val.png",
+    "id": 622,
+    "kp-1": [
+      {
+        "x": 61.5851461636751,
+        "y": 71.04388878598814,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 62.00935879080427,
+        "y": 73.52966112273558,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.06666666666667,
+        "y": 68.44349680170578,
+        "width": 12.133333333333333,
+        "height": 7.249466950959488,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 500,
+    "created_at": "2021-11-22T14:34:20.533832Z",
+    "updated_at": "2021-11-22T15:44:51.687592Z",
+    "lead_time": 652.402
+  },
+  {
+    "image": "/data/upload/3/0dd6ded5-SAMSUNG1B_0002_26_val.png",
+    "id": 620,
+    "kp-1": [
+      {
+        "x": 37.86793908001448,
+        "y": 69.79464394128094,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 37.924972110995185,
+        "y": 71.34410869785351,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 31.866666666666667,
+        "y": 67.37739872068232,
+        "width": 10.133333333333333,
+        "height": 6.609808102345416,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 499,
+    "created_at": "2021-11-22T14:33:50.018254Z",
+    "updated_at": "2021-11-22T15:44:41.622790Z",
+    "lead_time": 642.34
+  },
+  {
+    "image": "/data/upload/3/7aebcf57-SAMSUNG1B_0002_25_val.png",
+    "id": 619,
+    "kp-1": [
+      {
+        "x": 42.93683858536891,
+        "y": 66.76605423196058,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 42.99387161634961,
+        "y": 69.59154878806352,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 38.533333333333346,
+        "y": 62.68656716417912,
+        "width": 14.933333333333335,
+        "height": 13.00639658848614,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 498,
+    "created_at": "2021-11-22T14:33:29.211009Z",
+    "updated_at": "2021-11-22T15:44:33.860718Z",
+    "lead_time": 634.573
+  },
+  {
+    "image": "/data/upload/3/1b883ff3-SAMSUNG1B_0002_24_val.png",
+    "id": 618,
+    "kp-1": [
+      {
+        "x": 43.66183612592287,
+        "y": 72.21522544561127,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.66183612592287,
+        "y": 73.87240700344292,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 40.40000000000001,
+        "y": 68.23027718550107,
+        "width": 14.933333333333335,
+        "height": 9.168443496801707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 497,
+    "created_at": "2021-11-22T14:33:15.961253Z",
+    "updated_at": "2021-11-22T15:44:17.160521Z",
+    "lead_time": 617.862
+  },
+  {
+    "image": "/data/upload/3/4982d524-SAMSUNG1B_0002_22_val.png",
+    "id": 616,
+    "kp-1": [
+      {
+        "x": 52.10005889376335,
+        "y": 65.68390985852506,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 52.38522404866683,
+        "y": 67.5979545578206,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48.666666666666664,
+        "y": 63.75266524520256,
+        "width": 10.533333333333333,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 496,
+    "created_at": "2021-11-22T14:32:53.131722Z",
+    "updated_at": "2021-11-22T15:44:09.445616Z",
+    "lead_time": 610.163
+  },
+  {
+    "image": "/data/upload/3/6e800d6e-SAMSUNG1B_0002_21_val.png",
+    "id": 615,
+    "kp-1": [
+      {
+        "x": 57.766603920231425,
+        "y": 68.00118685230011,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 57.766603920231425,
+        "y": 71.61052828525743,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.333333333333336,
+        "y": 65.2452025586354,
+        "width": 13.066666666666665,
+        "height": 10.447761194029852,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 495,
+    "created_at": "2021-11-22T14:32:25.159672Z",
+    "updated_at": "2021-11-22T15:44:01.863967Z",
+    "lead_time": 602.583
+  },
+  {
+    "image": "/data/upload/3/241708ca-SAMSUNG1B_0002_20_val.png",
+    "id": 614,
+    "kp-1": [
+      {
+        "x": 55.299602006082644,
+        "y": 49.58679917469842,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      },
+      {
+        "x": 55.437621941055944,
+        "y": 51.36059149488752,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50,
+        "y": 47.773972602739725,
+        "width": 17.866666666666667,
+        "height": 6.335616438356165,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 494,
+    "created_at": "2021-11-22T14:32:06.100086Z",
+    "updated_at": "2021-11-22T15:43:54.160580Z",
+    "lead_time": 594.867
+  },
+  {
+    "image": "/data/upload/3/a259694b-SAMSUNG1B_0002_19_val.png",
+    "id": 613,
+    "kp-1": [
+      {
+        "x": 59.20496998319692,
+        "y": 60.66502345648852,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.20496998319692,
+        "y": 63.81918683095622,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48,
+        "y": 56.92963752665247,
+        "width": 25.333333333333332,
+        "height": 10.660980810234541,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 493,
+    "created_at": "2021-11-22T14:31:51.248297Z",
+    "updated_at": "2021-11-22T15:43:46.796156Z",
+    "lead_time": 587.503
+  },
+  {
+    "image": "/data/upload/3/fd600de8-SAMSUNG1B_0002_18_val.png",
+    "id": 612,
+    "kp-1": [
+      {
+        "x": 53.05589319073972,
+        "y": 77.44182983844384,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 53.28362608344565,
+        "y": 80.59599321291154,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 45.733333333333334,
+        "y": 73.77398720682304,
+        "width": 22.933333333333334,
+        "height": 9.594882729211088,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 492,
+    "created_at": "2021-11-22T14:31:33.506847Z",
+    "updated_at": "2021-11-22T15:43:39.797556Z",
+    "lead_time": 580.523
+  },
+  {
+    "image": "/data/upload/3/5b9c2417-SAMSUNG1B_0002_17_val.png",
+    "id": 611,
+    "kp-1": [
+      {
+        "x": 53.08573601924935,
+        "y": 78.40614082234602,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 53.142769050230065,
+        "y": 80.50247549300305,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.4,
+        "y": 74.4136460554371,
+        "width": 12.533333333333333,
+        "height": 8.102345415778254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 491,
+    "created_at": "2021-11-22T14:31:15.918154Z",
+    "updated_at": "2021-11-22T15:43:31.877326Z",
+    "lead_time": 572.59
+  },
+  {
+    "image": "/data/upload/3/12915347-SAMSUNG1B_0002_15_val.png",
+    "id": 609,
+    "kp-1": [
+      {
+        "x": 42.708844519142694,
+        "y": 67.07533730898861,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 42.82291058110408,
+        "y": 69.62739690804935,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 38.4,
+        "y": 63.75266524520256,
+        "width": 17.066666666666666,
+        "height": 11.300639658848617,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 490,
+    "created_at": "2021-11-22T14:30:48.168557Z",
+    "updated_at": "2021-11-22T15:43:21.415845Z",
+    "lead_time": 562.125
+  },
+  {
+    "image": "/data/upload/3/d21fceed-SAMSUNG1B_0002_14_val.png",
+    "id": 608,
+    "kp-1": [
+      {
+        "x": 38.308310641683015,
+        "y": 69.69095692326358,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 38.35116040199909,
+        "y": 71.26596418897137,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 31.6,
+        "y": 66.52452025586354,
+        "width": 10.26666666666667,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 489,
+    "created_at": "2021-11-22T14:30:28.116538Z",
+    "updated_at": "2021-11-22T15:43:09.710234Z",
+    "lead_time": 550.422
+  },
+  {
+    "image": "/data/upload/3/8226e9d5-SAMSUNG1B_0002_12_val.png",
+    "id": 606,
+    "kp-1": [
+      {
+        "x": 61.40572317629043,
+        "y": 71.2592439457929,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 61.73566633072423,
+        "y": 73.5190369791997,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 57.2,
+        "y": 68.01705756929638,
+        "width": 12,
+        "height": 8.742004264392325,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 488,
+    "created_at": "2021-11-22T14:29:41.907554Z",
+    "updated_at": "2021-11-22T15:43:01.985383Z",
+    "lead_time": 542.695
+  },
+  {
+    "image": "/data/upload/3/26e83e1d-SAMSUNG1B_0002_11_val.png",
+    "id": 605,
+    "kp-1": [
+      {
+        "x": 69.43018438777987,
+        "y": 74.19745915051902,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 69.56820432275316,
+        "y": 75.63116977527706,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 62.8,
+        "y": 71.42857142857143,
+        "width": 14.8,
+        "height": 7.6759061833688715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 487,
+    "created_at": "2021-11-22T14:29:26.441652Z",
+    "updated_at": "2021-11-22T15:42:53.184771Z",
+    "lead_time": 533.895
+  },
+  {
+    "image": "/data/upload/3/69aeb724-SAMSUNG1B_0002_10_val.png",
+    "id": 604,
+    "kp-1": [
+      {
+        "x": 54.784235272832454,
+        "y": 83.29009184816441,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.95563431409678,
+        "y": 84.86509911387218,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.8,
+        "y": 80.59701492537313,
+        "width": 7.733333333333333,
+        "height": 6.609808102345416,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 486,
+    "created_at": "2021-11-22T14:29:07.262156Z",
+    "updated_at": "2021-11-22T15:42:46.475751Z",
+    "lead_time": 527.182
+  },
+  {
+    "image": "/data/upload/3/cf492ebe-SAMSUNG1B_0002_9_val.png",
+    "id": 603,
+    "kp-1": [
+      {
+        "x": 43.896688791286095,
+        "y": 72.06524904690491,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 43.896688791286095,
+        "y": 73.82981596968405,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.6,
+        "y": 68.23027718550107,
+        "width": 14.8,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 485,
+    "created_at": "2021-11-22T14:26:59.566033Z",
+    "updated_at": "2021-11-22T15:42:39.323884Z",
+    "lead_time": 520.025
+  },
+  {
+    "image": "/data/upload/3/7f22fb43-SAMSUNG1B_0002_6_val.png",
+    "id": 600,
+    "kp-1": [
+      {
+        "x": 33.397206710750915,
+        "y": 86.24297398983676,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 33.208667765360175,
+        "y": 87.90015554766842,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 26.8,
+        "y": 82.72921108742004,
+        "width": 14.8,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 484,
+    "created_at": "2021-11-22T14:26:21.389184Z",
+    "updated_at": "2021-11-22T15:41:46.628555Z",
+    "lead_time": 467.331
+  },
+  {
+    "image": "/data/upload/3/99ae32a2-SAMSUNG1B_0002_5_val.png",
+    "id": 599,
+    "kp-1": [
+      {
+        "x": 52.267977455375195,
+        "y": 65.69552812687566,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 52.419956342517864,
+        "y": 67.60802788100068,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.333333333333336,
+        "y": 63.75266524520256,
+        "width": 16.266666666666666,
+        "height": 7.036247334754798,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 483,
+    "created_at": "2021-11-22T14:25:52.268192Z",
+    "updated_at": "2021-11-22T15:41:36.514609Z",
+    "lead_time": 457.218
+  },
+  {
+    "image": "/data/upload/3/0831dfae-SAMSUNG1B_0002_4_val.png",
+    "id": 598,
+    "kp-1": [
+      {
+        "x": 44.687996308584204,
+        "y": 76.79851586209503,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 44.610087653464056,
+        "y": 78.85287316519212,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 34.4,
+        "y": 71.85501066098081,
+        "width": 15.6,
+        "height": 9.808102345415778,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 482,
+    "created_at": "2021-11-22T14:25:32.936199Z",
+    "updated_at": "2021-11-22T15:41:28.026334Z",
+    "lead_time": 448.734
+  },
+  {
+    "image": "/data/upload/3/4254d653-SAMSUNG1B_0002_3_val.png",
+    "id": 597,
+    "kp-1": [
+      {
+        "x": 55.0849753519744,
+        "y": 59.847113569462685,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 55.20102029377587,
+        "y": 61.53087726573136,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.266666666666666,
+        "y": 56.71641791044776,
+        "width": 19.333333333333332,
+        "height": 8.742004264392325,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 481,
+    "created_at": "2021-11-22T14:25:01.861352Z",
+    "updated_at": "2021-11-22T15:41:20.798559Z",
+    "lead_time": 441.506
+  },
+  {
+    "image": "/data/upload/3/5d88de3c-SAMSUNG1B_0002_2_val.png",
+    "id": 596,
+    "kp-1": [
+      {
+        "x": 51.74083959906702,
+        "y": 67.95505448610768,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 51.74083959906702,
+        "y": 69.36365881026457,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.733333333333334,
+        "y": 65.0319829424307,
+        "width": 13.2,
+        "height": 6.823027718550106,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 480,
+    "created_at": "2021-11-22T14:24:42.788687Z",
+    "updated_at": "2021-11-22T15:41:12.572537Z",
+    "lead_time": 433.273
+  },
+  {
+    "image": "/data/upload/3/e66e28a7-SAMSUNG1B_0002_1_val.png",
+    "id": 595,
+    "kp-1": [
+      {
+        "x": 57.63200146642849,
+        "y": 68.15630934217224,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 57.63200146642847,
+        "y": 71.80210876940185,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48.8,
+        "y": 65.67164179104478,
+        "width": 14.666666666666666,
+        "height": 8.315565031982942,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 479,
+    "created_at": "2021-11-22T14:24:15.438230Z",
+    "updated_at": "2021-11-22T15:41:05.284315Z",
+    "lead_time": 425.993
+  },
+  {
+    "image": "/data/upload/3/6509d91e-SAMSUNG1B_0001_99_val.png",
+    "id": 594,
+    "kp-1": [
+      {
+        "x": 62.16283804498168,
+        "y": 55.87285915408339,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      },
+      {
+        "x": 62.36986794744161,
+        "y": 57.73534109028194,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 56.266666666666666,
+        "y": 54.28082191780822,
+        "width": 13.600000000000003,
+        "height": 5.650684931506848,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1028,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 478,
+    "created_at": "2021-11-22T14:23:53.397922Z",
+    "updated_at": "2021-11-22T15:40:56.172034Z",
+    "lead_time": 416.878
+  },
+  {
+    "image": "/data/upload/3/6bc48778-SAMSUNG1B_0001_98_val.png",
+    "id": 593,
+    "kp-1": [
+      {
+        "x": 59.113764839031546,
+        "y": 79.81358995549827,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 59.165613049014,
+        "y": 81.38791243543834,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 50.13333333333333,
+        "y": 76.97228144989339,
+        "width": 12.8,
+        "height": 7.4626865671641776,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 477,
+    "created_at": "2021-11-22T14:23:33.977260Z",
+    "updated_at": "2021-11-22T15:40:48.387615Z",
+    "lead_time": 409.097
+  },
+  {
+    "image": "/data/upload/3/34a95a73-SAMSUNG1B_0001_97_val.png",
+    "id": 592,
+    "kp-1": [
+      {
+        "x": 64.66426248770375,
+        "y": 70.72103284393181,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 65.02719995758095,
+        "y": 72.54393255754661,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 61.46666666666667,
+        "y": 67.16417910447761,
+        "width": 10.133333333333333,
+        "height": 7.6759061833688715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 476,
+    "created_at": "2021-11-22T14:23:14.675085Z",
+    "updated_at": "2021-11-22T15:40:40.487209Z",
+    "lead_time": 401.197
+  },
+  {
+    "image": "/data/upload/3/6d8a0b53-SAMSUNG1B_0001_96_val.png",
+    "id": 591,
+    "kp-1": [
+      {
+        "x": 52.80418117077247,
+        "y": 58.77613759831202,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 52.856029380754926,
+        "y": 60.10188284457732,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.533333333333346,
+        "y": 55.65031982942432,
+        "width": 12.533333333333333,
+        "height": 7.6759061833688715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 475,
+    "created_at": "2021-11-22T14:22:49.960129Z",
+    "updated_at": "2021-11-22T15:40:32.083723Z",
+    "lead_time": 392.793
+  },
+  {
+    "image": "/data/upload/3/cdcf95d3-SAMSUNG1B_0001_95_val.png",
+    "id": 590,
+    "kp-1": [
+      {
+        "x": 49.3479770911227,
+        "y": 60.76620801515622,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 49.57610921504551,
+        "y": 62.77139770013249,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 40.79999999999999,
+        "y": 57.782515991471215,
+        "width": 13.2,
+        "height": 6.823027718550106,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 474,
+    "created_at": "2021-11-22T14:22:27.172786Z",
+    "updated_at": "2021-11-22T15:40:22.622901Z",
+    "lead_time": 383.32
+  },
+  {
+    "image": "/data/upload/3/5d4d3f1b-SAMSUNG1B_0001_94_val.png",
+    "id": 589,
+    "kp-1": [
+      {
+        "x": 49.4147229244622,
+        "y": 72.03421939775941,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 49.58582201740429,
+        "y": 75.04200392522385,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 39.733333333333334,
+        "y": 69.50959488272919,
+        "width": 16.400000000000002,
+        "height": 7.889125799573561,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 473,
+    "created_at": "2021-11-22T14:21:41.565305Z",
+    "updated_at": "2021-11-22T15:40:12.583084Z",
+    "lead_time": 373.287
+  },
+  {
+    "image": "/data/upload/3/570d7a1e-SAMSUNG1B_0001_93_val.png",
+    "id": 588,
+    "kp-1": [
+      {
+        "x": 57.4227204609326,
+        "y": 83.90361494796186,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1192,
+        "original_height": 800
+      },
+      {
+        "x": 57.526416880897486,
+        "y": 85.83364743409285,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1192,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 53.333333333333336,
+        "y": 81.51093439363817,
+        "width": 11.733333333333333,
+        "height": 6.560636182902586,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1192,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 472,
+    "created_at": "2021-11-22T14:21:19.188639Z",
+    "updated_at": "2021-11-22T15:40:03.847946Z",
+    "lead_time": 364.557
+  },
+  {
+    "image": "/data/upload/3/723a7072-SAMSUNG1B_0001_92_val.png",
+    "id": 587,
+    "kp-1": [
+      {
+        "x": 59.813728714033246,
+        "y": 79.35600872444236,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1240,
+        "original_height": 800
+      },
+      {
+        "x": 59.76188050405079,
+        "y": 82.33038355949087,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1240,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 54.8,
+        "y": 76.03305785123968,
+        "width": 13.066666666666665,
+        "height": 9.090909090909092,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1240,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 471,
+    "created_at": "2021-11-22T14:20:58.305282Z",
+    "updated_at": "2021-11-22T15:39:56.170029Z",
+    "lead_time": 356.875
+  },
+  {
+    "image": "/data/upload/3/91e08099-SAMSUNG1B_0001_91_val.png",
+    "id": 586,
+    "kp-1": [
+      {
+        "x": 62.4596348434276,
+        "y": 80.38535143750697,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 62.71058017974267,
+        "y": 84.49599029170837,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 54.666666666666664,
+        "y": 79.317697228145,
+        "width": 15.6,
+        "height": 8.102345415778254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 470,
+    "created_at": "2021-11-22T14:20:40.059296Z",
+    "updated_at": "2021-11-22T15:39:48.797698Z",
+    "lead_time": 349.507
+  },
+  {
+    "image": "/data/upload/3/86fcc34e-SAMSUNG1B_0001_90_val.png",
+    "id": 585,
+    "kp-1": [
+      {
+        "x": 67.89632942788458,
+        "y": 73.90260660414185,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 67.95336245886529,
+        "y": 75.54321634639518,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 63.46666666666667,
+        "y": 71.21535181236673,
+        "width": 10.26666666666667,
+        "height": 7.249466950959488,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 469,
+    "created_at": "2021-11-22T14:20:19.141471Z",
+    "updated_at": "2021-11-22T15:39:41.288092Z",
+    "lead_time": 341.99
+  },
+  {
+    "image": "/data/upload/3/760bed10-SAMSUNG1B_0001_89_val.png",
+    "id": 584,
+    "kp-1": [
+      {
+        "x": 63.674776265745116,
+        "y": 78.50542401255686,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 65.2820707752012,
+        "y": 83.47696868605178,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 56.8,
+        "y": 73.98720682302772,
+        "width": 13.733333333333333,
+        "height": 14.925373134328355,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 468,
+    "created_at": "2021-11-22T14:19:58.381470Z",
+    "updated_at": "2021-11-22T15:39:29.788823Z",
+    "lead_time": 330.481
+  },
+  {
+    "image": "/data/upload/3/7f5ffef4-SAMSUNG1B_0001_88_val.png",
+    "id": 583,
+    "kp-1": [
+      {
+        "x": 66.59713418307828,
+        "y": 77.44626675577531,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 66.88229933798178,
+        "y": 78.99573151234792,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 62.4,
+        "y": 75.90618336886993,
+        "width": 9.333333333333334,
+        "height": 5.543710021321962,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 467,
+    "created_at": "2021-11-22T14:19:36.802246Z",
+    "updated_at": "2021-11-22T15:39:18.742715Z",
+    "lead_time": 319.455
+  },
+  {
+    "image": "/data/upload/3/358a14e4-SAMSUNG1B_0001_87_val.png",
+    "id": 582,
+    "kp-1": [
+      {
+        "x": 64.92833737602258,
+        "y": 75.90646484998491,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 65.15646949994539,
+        "y": 77.45592960655753,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 59.59999999999999,
+        "y": 72.70788912579957,
+        "width": 11.733333333333333,
+        "height": 7.249466950959488,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 466,
+    "created_at": "2021-11-22T14:19:15.293011Z",
+    "updated_at": "2021-11-22T15:39:11.301066Z",
+    "lead_time": 312.004
+  },
+  {
+    "image": "/data/upload/3/9e29312d-SAMSUNG1B_0001_86_val.png",
+    "id": 581,
+    "kp-1": [
+      {
+        "x": 41.42984691018536,
+        "y": 70.32163726839428,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 41.26564881399193,
+        "y": 72.0200329315692,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 33.6,
+        "y": 65.45842217484007,
+        "width": 13.866666666666664,
+        "height": 8.955223880597014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 465,
+    "created_at": "2021-11-22T14:18:58.152732Z",
+    "updated_at": "2021-11-22T15:39:03.713230Z",
+    "lead_time": 304.406
+  },
+  {
+    "image": "/data/upload/3/59c741d2-SAMSUNG1B_0001_85_val.png",
+    "id": 580,
+    "kp-1": [
+      {
+        "x": 49.0738501379053,
+        "y": 84.20261530737626,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 49.14286010539196,
+        "y": 86.51860939352389,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 37.20000000000001,
+        "y": 81.6631130063966,
+        "width": 20.8,
+        "height": 8.528784648187633,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 464,
+    "created_at": "2021-11-22T14:18:40.914918Z",
+    "updated_at": "2021-11-22T15:38:56.172473Z",
+    "lead_time": 296.878
+  },
+  {
+    "image": "/data/upload/3/0b3ea2fe-SAMSUNG1B_0001_84_val.png",
+    "id": 579,
+    "kp-1": [
+      {
+        "x": 54.222887454851815,
+        "y": 70.93792244361545,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 54.285623788930565,
+        "y": 72.7425931600941,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 44.4,
+        "y": 66.73773987206823,
+        "width": 13.466666666666665,
+        "height": 9.381663113006397,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 463,
+    "created_at": "2021-11-22T14:18:24.854018Z",
+    "updated_at": "2021-11-22T15:38:48.615873Z",
+    "lead_time": 289.319
+  },
+  {
+    "image": "/data/upload/3/a6a154dd-SAMSUNG1B_0001_83_val.png",
+    "id": 578,
+    "kp-1": [
+      {
+        "x": 57.64838454870825,
+        "y": 69.37311047961218,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 57.90762559862052,
+        "y": 70.53313757009434,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 53.86666666666666,
+        "y": 66.31130063965884,
+        "width": 9.6,
+        "height": 7.249466950959488,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 462,
+    "created_at": "2021-11-22T14:18:03.234901Z",
+    "updated_at": "2021-11-22T15:38:36.662377Z",
+    "lead_time": 277.367
+  },
+  {
+    "image": "/data/upload/3/5603389f-SAMSUNG1B_0001_82_val.png",
+    "id": 577,
+    "kp-1": [
+      {
+        "x": 49.49399184828972,
+        "y": 83.57427842634654,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 49.59768826825463,
+        "y": 85.97719168520244,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 42.4,
+        "y": 81.02345415778251,
+        "width": 13.333333333333334,
+        "height": 8.528784648187633,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 461,
+    "created_at": "2021-11-22T14:17:41.176977Z",
+    "updated_at": "2021-11-22T15:38:28.965175Z",
+    "lead_time": 269.673
+  },
+  {
+    "image": "/data/upload/3/7b6764e1-SAMSUNG1B_0001_81_val.png",
+    "id": 576,
+    "kp-1": [
+      {
+        "x": 47.34812565503031,
+        "y": 66.12429199531141,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 47.29627744504786,
+        "y": 67.35265846545646,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 40.79999999999999,
+        "y": 61.05263157894737,
+        "width": 10.800000000000002,
+        "height": 10.105263157894736,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 460,
+    "created_at": "2021-11-22T14:17:18.925276Z",
+    "updated_at": "2021-11-22T15:38:21.685806Z",
+    "lead_time": 262.385
+  },
+  {
+    "image": "/data/upload/3/81771662-SAMSUNG1B_0001_80_val.png",
+    "id": 575,
+    "kp-1": [
+      {
+        "x": 64.74052654249486,
+        "y": 67.10647695822826,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 64.99147187880995,
+        "y": 68.40985025346285,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 60.8,
+        "y": 65.0319829424307,
+        "width": 9.066666666666666,
+        "height": 6.3965884861407245,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 459,
+    "created_at": "2021-11-22T14:16:52.578956Z",
+    "updated_at": "2021-11-22T15:38:13.724113Z",
+    "lead_time": 254.43
+  },
+  {
+    "image": "/data/upload/3/30a5bacd-SAMSUNG1B_0001_79_val.png",
+    "id": 574,
+    "kp-1": [
+      {
+        "x": 61.017632594333314,
+        "y": 77.43942115286032,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 61.20584159656962,
+        "y": 79.54487032208543,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 55.2,
+        "y": 75.47974413646055,
+        "width": 13.2,
+        "height": 7.036247334754798,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 458,
+    "created_at": "2021-11-22T14:16:34.490487Z",
+    "updated_at": "2021-11-22T15:38:05.658688Z",
+    "lead_time": 246.372
+  },
+  {
+    "image": "/data/upload/3/c2ea24d7-SAMSUNG1B_0001_78_val.png",
+    "id": 573,
+    "kp-1": [
+      {
+        "x": 55.05824181233845,
+        "y": 76.4035887689434,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1084,
+        "original_height": 800
+      },
+      {
+        "x": 54.99550547825967,
+        "y": 77.7634208118211,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1084,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 49.2,
+        "y": 72.74368231046931,
+        "width": 10.933333333333334,
+        "height": 7.0397111913357415,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1084,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 457,
+    "created_at": "2021-11-22T14:16:12.872637Z",
+    "updated_at": "2021-11-22T15:37:56.909506Z",
+    "lead_time": 237.616
+  },
+  {
+    "image": "/data/upload/3/78d6b780-SAMSUNG1B_0001_77_val.png",
+    "id": 572,
+    "kp-1": [
+      {
+        "x": 66.67970160356377,
+        "y": 70.03294605917814,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      },
+      {
+        "x": 67.02475144099701,
+        "y": 72.24178782153484,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 60.93333333333333,
+        "y": 67.57679180887372,
+        "width": 12.933333333333334,
+        "height": 7.679180887372014,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1024,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 456,
+    "created_at": "2021-11-22T14:15:50.548480Z",
+    "updated_at": "2021-11-22T15:37:48.944017Z",
+    "lead_time": 229.647
+  },
+  {
+    "image": "/data/upload/3/14ba5798-SAMSUNG1B_0001_76_val.png",
+    "id": 571,
+    "kp-1": [
+      {
+        "x": 51.68180367147155,
+        "y": 70.21510117958103,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 51.96461208955767,
+        "y": 71.87228273741268,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 46.13333333333333,
+        "y": 67.590618336887,
+        "width": 11.333333333333334,
+        "height": 6.823027718550106,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 455,
+    "created_at": "2021-11-22T14:15:29.306296Z",
+    "updated_at": "2021-11-22T15:37:40.664498Z",
+    "lead_time": 221.358
+  },
+  {
+    "image": "/data/upload/3/7f99430a-SAMSUNG1B_0001_75_val.png",
+    "id": 570,
+    "kp-1": [
+      {
+        "x": 50.467139563269406,
+        "y": 66.76676480122205,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 50.67416946572935,
+        "y": 69.30332975271703,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 42.13333333333333,
+        "y": 63.53944562899787,
+        "width": 18.133333333333333,
+        "height": 8.102345415778254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 454,
+    "created_at": "2021-11-22T14:15:11.216142Z",
+    "updated_at": "2021-11-22T15:37:32.480486Z",
+    "lead_time": 213.185
+  },
+  {
+    "image": "/data/upload/3/7df42bce-SAMSUNG1B_0001_74_val.png",
+    "id": 569,
+    "kp-1": [
+      {
+        "x": 50.23086905182476,
+        "y": 64.43730429925672,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      },
+      {
+        "x": 50.28790208280545,
+        "y": 66.35134899855227,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 43.20000000000001,
+        "y": 61.62046908315565,
+        "width": 10.4,
+        "height": 7.036247334754798,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1280,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 453,
+    "created_at": "2021-11-22T14:14:48.888419Z",
+    "updated_at": "2021-11-22T15:37:25.400057Z",
+    "lead_time": 206.116
+  },
+  {
+    "image": "/data/upload/3/40571854-SAMSUNG1B_0001_72_val.png",
+    "id": 567,
+    "kp-1": [
+      {
+        "x": 53.911542792762575,
+        "y": 72.01110062394498,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P1"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      },
+      {
+        "x": 54.05294700180561,
+        "y": 73.72336903687447,
+        "width": 0.2958579881656805,
+        "keypointlabels": [
+          "P2"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "label": [
+      {
+        "x": 48.53333333333333,
+        "y": 69.89473684210526,
+        "width": 8.933333333333334,
+        "height": 6.315789473684211,
+        "rotation": 0,
+        "rectanglelabels": [
+          "ROI"
+        ],
+        "original_width": 1264,
+        "original_height": 800
+      }
+    ],
+    "annotator": 3,
+    "annotation_id": 452,
+    "created_at": "2021-11-22T14:12:25.606484Z",
+    "updated_at": "2021-11-22T15:37:07.905179Z",
+    "lead_time": 188.605
+  }
+]
