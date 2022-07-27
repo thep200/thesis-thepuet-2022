@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <title>NT</title>
+</head>
+<body>
+    {% load static %}
+    <div id="app" class="container-fluid">
+        <div class="row">
+            <!-- header -->
+            <div class="col-12 app--header">
+                <h1>Automatic detection and measurement of nuchal translucency</h1>
+            </div>
+
+            <!-- show image user -->
+            <div class="col-12 app--image__show" :style="cropBoxCssVars">
+                <div class="box-crop" id="boxCrop" v-show="isEnableCrop" @click="toChooseRoi"></div>
+                <img src="{% static 'images/add-outline.svg' %}" class="app--icon-add" v-show="imagePreview == null" @click="toChooseImage" alt="ad-icon">
+                <img v-show="imagePreview != null" :src="imagePreview" @mousemove="setCoradinatesForCropBox" alt="image-show">
+            </div>
+
+            <!-- upload form -->
+            <div class="app--form-upload col-12">
+                <input
+                    type="file"
+                    name="image"
+                    id="id_image"
+                    @input="setPreviewImage"
+                    @click="makeupValueInpIfSame"
+                    ref="inputToChooseImage"
+                >
+            </div>
+
+            <!-- control -->
+            <div class="col-12 app--control">
+                <button class="custom-btn-control btn btn-primary" :disabled="allowUpload" @click="uploadImage">
+                    <div class="spinner-border loading" v-show="isEnableLoading" role="status">
+                        <span class="sr-only"></span>
+                    </div>
+                Measure NT
+                </button>
+
+                <button class="custom-btn-control btn btn-primary" :disabled="imagePreview == null" @click="toChooseAnew">Upload another</button>
+                <button class="custom-btn-control btn btn-primary" :disabled="imagePreview == null" @click="startCrop">Start Crop ROI</button>
+                <button class="custom-btn-control btn btn-danger" @click="reset">Reset</button>
+            </div>
+
+            <!-- results -->
+            <div class="col-12 row no-gutters app-result">
+                <div class="col-12 app-result--title">
+                    <h2>Result</h2>
+                </div>
+
+                <div class="col-12 row no-gutters app-result--box">
+                    <div class="col-7 app-result--image">
+                        <img class="image-icon" v-show="!isEnableShowResult" src="{% static 'images/image-outline.svg' %}" alt="demo">
+                        <img class="image-result" src="{% static 'images/nt-root-crop.png' %}" v-show="isEnableShowResult" alt="connect">
+                        <img class="image-result" src="{% static 'images/nt-root-pred.png' %}" v-show="isEnableShowResult" alt="connect">
+                        <!-- <img src="{% static 'images/nt-root-contour.png' %}" v-show="isEnableShowResult" alt="connect" style="max-height:300px"> -->
+                    </div>
+                    <div class="col-4 row no-gutters app-result--nt-measure">
+                        <div class="col-12 show-result">
+                            <p>Result nt:</p>
+                            <div>${ ntResult } mm</div>
+                        </div>
+
+                        <div class="col-12 show-result">
+                            <p>Possibility of Down syndrome:</p>
+                            <div>${ ntResult | formatPredictDown }</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 footer">
+                <p class="m-0">&copy; 2022 Copyrights thep200 | Thesis 18021206 UET-AILAB 🤖</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+new Vue({
+    delimiters: ['${', '}'],
+    el: '#app',
+    data() {
+        return {
+            msg: 'hello',
+            imagePreview: null,
+            imageFileUpload: null,
+            isEnableCrop: false,
+            allowUpload: true,
+            preCropBox: {
+                x: 0,
+                y: 0,
+            },
+            cropBoxCoordinate: {
+                x: null,
+                y: null,
+            },
+            ntResult: 0,
+            isEnableShowResult: false,
+            isEnableLoading: false,
+        }
+    },
+
+    computed: {
+        cropBoxCssVars() {
+            return {
+                '--top': this.preCropBox.y > screen.height ? 0 + 'px' : this.preCropBox.y + 'px',
+                '--left': this.preCropBox.x > screen.width ? 0 + 'px' : this.preCropBox.x + 'px',
+            }
+        }
+    },
+
+    filters: {
+        formatPredictDown(value) {
+            if (value < 3.5) return 'Normal';
+            if (value >= 3.5 && value < 6) return 'Risk of Down syndrome';
+            if (value >= 6) return 'Hight risk of down syndrome';
+        }
+    },
+
+    methods: {
+        // upload image
+        toChooseImage(e) {
+            this.reset();
+            this.$refs.inputToChooseImage.click();
+        },
+
+        toChooseAnew(e) {
+            this.reset();
+            this.$refs.inputToChooseImage.click();
+        },
+
+        reset() {
+            this.imagePreview = null;
+            this.imageFileUpload = null;
+            this.ntResult = 0;
+            this.isEnableCrop = false;
+            this.allowUpload = true;
+            this.isEnableShowResult = false;
+            this.isEnableLoading = false;
+        },
+
+        setPreviewImage(e) {
+            var file = e.currentTarget.files;
+            this.imagePreview = URL.createObjectURL(file[0]);
+            this.imageFileUpload = file[0];
+        },
+
+        uploadImage() {
+            // document.getElementById('btnUploadImage').click();
+            this.isEnableLoading = true;
+            let df = new FormData();
+            df.append('image', this.imageFileUpload);
+            df.append('xCrop', this.cropBoxCoordinate.x);
+            df.append('yCrop', this.cropBoxCoordinate.y);
+
+            var response = axios.post('/ntdemo/upload', df, {
+                headers: {
+                    'Content-Type': 'multipart/form-data',
+                    "X-CSRFToken": "{{ csrf_token }}"
+                }
+            })
+                .then(res => {
+                    alert('Upload success');
+                    this.isEnableShowResult = true;
+                    this.ntResult = res.data;
+                    this.allowUpload = true;
+                    this.isEnableLoading = false;
+                })
+                .catch(err => {
+                    alert('Upload fail. Please try again!');
+                    this.reset();
+                });
+        },
+
+        // crop image
+        startCrop() {
+            this.isEnableCrop = true;
+        },
+
+        toChooseRoi(e) {
+            this.isEnableCrop = false;
+            this.allowUpload = false;
+            this.cropBoxCoordinate.x = this.preCropBox.x;
+            this.cropBoxCoordinate.y = this.preCropBox.y;
+        },
+
+        makeupValueInpIfSame(e) {
+            e.target.value = null;
+        },
+
+        setCoradinatesForCropBox(e) {
+            this.preCropBox.x = e.clientX;
+            this.preCropBox.y = e.clientY;
+        },
+    }
+})
+
+</script>
+<style scoped>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'fira';
+    }
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    #app {
+        min-width: 720px;
+    }
+    .app--header {
+        background-color: #66abcd;
+        padding: 15px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .box-crop {
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: var(--top);
+        left: var(--left);
+        height: 256px;
+        width: 256px;
+        border: 1px solid #ccc;
+        background-color: rgba(100, 200, 100, 0.5);
+    }
+    .app--image__show {
+        position: relative;
+        background-color: #c9c9c9;
+        width: 100%;
+        /* height: 50vh; */
+        min-height: 50vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: auto;
+    }
+    .app--image__show img {
+        object-fit: contain;
+    }
+    .app--form-upload {
+        display: none;
+    }
+    .app--icon-add {
+        color: #9f7d7d;
+        height: 120px;
+        width: 120px;
+        /* filter: invert(0.5); */
+    }
+    .app--icon-add:hover {
+        cursor: pointer;
+    }
+    .app--control {
+        background-color: #fff;
+        height: 100%;
+        min-height: 50px;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        padding: 0 20px;
+    }
+    .app--control button {
+        margin-right: 10px;
+    }
+    .custom-btn-control {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .custom-btn-control .loading {
+        font-size: 10px;
+        height: 20px;
+        width: 20px;
+    }
+    .app--image-result {
+        height: 300px;
+    }
+    .app-result {
+        background-color: #c9c9c9;
+    }
+    .show-result div {
+        border: 1px solid #000;
+        padding: 10px 5px;
+    }
+    .show-result p {
+        margin-bottom: 0;
+        margin-top: 10px;
+    }
+    .app-result {
+        height: 450px;
+        padding-bottom: 50px;
+    }
+    .app-result--title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px 0;
+        height: 50px;
+    }
+    .app-result--box {
+        justify-content: space-around;
+        align-items: center;
+    }
+    .app-result--image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 5px dashed #4d4d4d;
+        height: 300px;
+        width: 300px;
+    }
+    .app-result--image img {
+        height: 256px;
+        width: 256px;
+        object-fit: cover;
+        max-height: 300px;
+    }
+
+    .app-result--image .image-result {
+        max-height: 300px;
+        margin-right: 10px;
+    }
+
+    .app-result--image .image-icon {
+        height: 100px;
+        width: 100px;
+        filter: invert(0.5);
+    }
+
+    .app-result--nt-measure {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 150px;
+    }
+    .footer {
+        height: 100px;
+        width: 100%;
+        background-color: #343442;
+        color: #fff;
+        display: flex;
+        justify-content: right;
+        align-items: flex-end;
+    }
+</style>
+</html>
