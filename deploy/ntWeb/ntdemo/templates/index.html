@@ -16,7 +16,7 @@
         <div class="row">
             <!-- header -->
             <div class="col-12 app--header">
-                <h1>Automatic detection and measurement of nuchal translucency</h1>
+                <h1>Automatic to detection and measurement of nuchal translucency</h1>
             </div>
 
             <!-- show image user -->
@@ -55,25 +55,29 @@
             <!-- results -->
             <div class="col-12 row no-gutters app-result">
                 <div class="col-12 app-result--title">
-                    <h2>Result</h2>
+                    <h2 v-show="!isEnableShowResult"> Result</h2>
+                    <h2 v-show="isEnableShowResult">Result: ${ fileNameImage }</h2>
                 </div>
 
                 <div class="col-12 row no-gutters app-result--box">
                     <div class="col-7 app-result--image">
                         <img class="image-icon" v-show="!isEnableShowResult" src="{% static 'images/image-outline.svg' %}" alt="demo">
-                        <img class="image-result" src="{% static 'images/nt-root-crop.png' %}" v-show="isEnableShowResult" alt="connect">
-                        <img class="image-result" src="{% static 'images/nt-root-pred.png' %}" v-show="isEnableShowResult" alt="connect">
-                        <!-- <img src="{% static 'images/nt-root-contour.png' %}" v-show="isEnableShowResult" alt="connect" style="max-height:300px"> -->
+                        <img class="image-result" :src="imageCrop" v-if="isEnableShowResult" alt="connect">
+                        <img class="image-result" :src="maskCrop" v-if="isEnableShowResult" alt="connect">
                     </div>
                     <div class="col-4 row no-gutters app-result--nt-measure">
                         <div class="col-12 show-result">
                             <p>Result nt:</p>
-                            <div>${ ntResult } mm</div>
+                            <div
+                                :class="{'nt-normal': ntResult < 3.5, 'nt-warning': ntResult < 6 && ntResult >= 3.5, 'nt-danger': ntResult >= 6}"
+                            >${ ntResult } mm</div>
                         </div>
 
                         <div class="col-12 show-result">
                             <p>Possibility of Down syndrome:</p>
-                            <div>${ ntResult | formatPredictDown }</div>
+                            <div
+                                :class="{'nt-normal': ntResult < 3.5, 'nt-warning': ntResult < 6 && ntResult >= 3.5, 'nt-danger': ntResult >= 6}"
+                            >${ ntResult | formatPredictDown }</div>
                         </div>
                     </div>
                 </div>
@@ -104,6 +108,9 @@ new Vue({
                 y: null,
             },
             ntResult: 0,
+            imageCrop: null,
+            maskCrop: null,
+            fileNameImage: 'null',
             isEnableShowResult: false,
             isEnableLoading: false,
         }
@@ -121,7 +128,7 @@ new Vue({
     filters: {
         formatPredictDown(value) {
             if (value < 3.5) return 'Normal';
-            if (value >= 3.5 && value < 6) return 'Risk of Down syndrome';
+            if (value >= 3.5 && value < 6) return 'Risk of down syndrome';
             if (value >= 6) return 'Hight risk of down syndrome';
         }
     },
@@ -146,12 +153,16 @@ new Vue({
             this.allowUpload = true;
             this.isEnableShowResult = false;
             this.isEnableLoading = false;
+            this.fileNameImage = 'null';
+            this.imageCrop = null;
+            this.maskCrop = null;
         },
 
         setPreviewImage(e) {
             var file = e.currentTarget.files;
             this.imagePreview = URL.createObjectURL(file[0]);
             this.imageFileUpload = file[0];
+            this.fileNameImage = file[0].name;
         },
 
         uploadImage() {
@@ -169,20 +180,23 @@ new Vue({
                 }
             })
                 .then(res => {
-                    alert('Upload success');
+                    alert('Measurement of nuchal translucency success!');
                     this.isEnableShowResult = true;
                     this.ntResult = res.data;
+                    this.imageCrop = "http://127.0.0.1:8000/media/results/nt-root-crop.png?" + new Date().getTime();
+                    this.maskCrop = "http://127.0.0.1:8000/media/results/nt-root-pred.png?" + new Date().getTime();
                     this.allowUpload = true;
                     this.isEnableLoading = false;
                 })
                 .catch(err => {
-                    alert('Upload fail. Please try again!');
+                    alert('Measurement of image failed. Please try again!');
                     this.reset();
                 });
         },
 
         // crop image
         startCrop() {
+            this.toAutoFullScreen();
             this.isEnableCrop = true;
         },
 
@@ -201,6 +215,19 @@ new Vue({
             this.preCropBox.x = e.clientX;
             this.preCropBox.y = e.clientY;
         },
+
+        toAutoFullScreen() {
+            var elem = document.getElementById('app');
+            if(elem.requestFullscreen) {
+                elem.requestFullscreen();
+            } else if(elem.mozRequestFullScreen) {
+                elem.mozRequestFullScreen();
+            } else if(elem.webkitRequestFullscreen) {
+                elem.webkitRequestFullscreen();
+            } else if(elem.msRequestFullscreen) {
+                elem.msRequestFullscreen();
+            }
+        }
     }
 })
 
@@ -291,7 +318,6 @@ new Vue({
         background-color: #c9c9c9;
     }
     .show-result div {
-        border: 1px solid #000;
         padding: 10px 5px;
     }
     .show-result p {
@@ -327,7 +353,6 @@ new Vue({
         object-fit: cover;
         max-height: 300px;
     }
-
     .app-result--image .image-result {
         max-height: 300px;
         margin-right: 10px;
@@ -344,6 +369,18 @@ new Vue({
         justify-content: center;
         align-items: center;
         height: 150px;
+    }
+    .nt-normal {
+        color: #21a336;
+        border: 1px solid #21a336;
+    }
+    .nt-warning {
+        color: #a78000;
+        border: 1px solid #a78000;
+    }
+    .nt-danger {
+        color: #ff0000;
+        border: 1px solid #ff0000;
     }
     .footer {
         height: 100px;

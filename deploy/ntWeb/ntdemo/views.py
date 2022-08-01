@@ -1,5 +1,3 @@
-import json
-import os
 import cv2
 import numpy as np
 from PIL import Image
@@ -15,7 +13,7 @@ thresh = 100
 DPI = [300]
 inch_to_mm = 25.4
 
-root_path = 'C:/Users/Thep Ho/Desktop/Thesis/deploy/ntWeb/ntdemo/static/images/'
+root_path = 'C:/Users/Thep Ho/Desktop/Thesis/deploy/ntWeb/media/results/'
 
 # Create your views here.
 def index(request):
@@ -33,12 +31,14 @@ def image_request(request):
     xCrop = int(request.POST.get('xCrop'))
     yCrop = int(request.POST.get('yCrop'))
 
-    img = cropImage(path_img, xCrop-456, yCrop-128)
-    # plt.imsave(root_path + 'nt-root-crop.png', img)
+    img = cropImage(path_img, xCrop - 456, yCrop - 128)
+    plt.imsave(root_path + 'nt-root-crop.png', img)
     single_img = prepareImage(root_path + 'nt-root-crop.png')
 
-    premsk = unet_predict(single_img)
-    plt.imsave(root_path + 'nt-root-pred.png', premsk)
+    preMask = unet_predict(single_img)
+    plt.imsave(root_path + 'nt-root-pred.png', preMask)
+
+    # measure distance nt
     nt = ms_nt(root_path + 'nt-root-pred.png')
 
     return HttpResponse(nt, content_type="application/json")
@@ -57,6 +57,7 @@ def cropImage(image_path, xCrop, yCrop):
         yCrop = yCrop + (height - (yCrop + 256))
     else:
         yCrop = 0 if yCrop - 30 < 0 else yCrop - 30
+
     return image[yCrop:yCrop+256, xCrop:xCrop+256, :]
 
 def prepareImage(image_path):
@@ -67,7 +68,6 @@ def prepareImage(image_path):
     return single_img
 
 def unet_predict(image):
-    # unet = keras.models.load_model('C:/Users/Thep Ho/Desktop/Thesis/exported-model/unet-7-256x256-25ep-94%.h5')
     unet = keras.models.load_model('C:/Users/Thep Ho/Desktop/Thesis/exported-model/unet-256x256-dataAug-50ep-99%.h5')
     img = image[np.newaxis, ...]
     pred_y = unet.predict(img)
@@ -109,7 +109,6 @@ def ms_nt(name_image):
 
     cv2.drawContours(img_contours_mask, contours, -1, (0, 255, 0), 1)
     cv2.drawContours(contour_img, contours, -1, (0, 255, 0), 1)
-    # region
 
     # centroid, area and max width, height
     centroid = []
