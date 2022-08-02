@@ -30,6 +30,8 @@ def image_request(request):
 
     xCrop = int(request.POST.get('xCrop'))
     yCrop = int(request.POST.get('yCrop'))
+    root_img = plt.imread(path_img)
+    plt.imsave(root_path + 'nt-original.png', root_img)
 
     img = cropImage(path_img, xCrop - 456, yCrop - 128)
     plt.imsave(root_path + 'nt-root-crop.png', img)

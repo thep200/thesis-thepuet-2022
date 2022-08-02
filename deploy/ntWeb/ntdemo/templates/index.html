@@ -44,7 +44,7 @@
                     <div class="spinner-border loading" v-show="isEnableLoading" role="status">
                         <span class="sr-only"></span>
                     </div>
-                Measure NT
+                    Measure NT
                 </button>
 
                 <button class="custom-btn-control btn btn-primary" :disabled="imagePreview == null" @click="toChooseAnew">Upload another</button>
@@ -62,6 +62,7 @@
                 <div class="col-12 row no-gutters app-result--box">
                     <div class="col-7 app-result--image">
                         <img class="image-icon" v-show="!isEnableShowResult" src="{% static 'images/image-outline.svg' %}" alt="demo">
+                        <img class="image-result" :src="imageOriginal" v-if="isEnableShowResult" alt="connect">
                         <img class="image-result" :src="imageCrop" v-if="isEnableShowResult" alt="connect">
                         <img class="image-result" :src="maskCrop" v-if="isEnableShowResult" alt="connect">
                     </div>
@@ -74,7 +75,7 @@
                         </div>
 
                         <div class="col-12 show-result">
-                            <p>Possibility of Down syndrome:</p>
+                            <p>Possibility of down syndrome:</p>
                             <div
                                 :class="{'nt-normal': ntResult < 3.5, 'nt-warning': ntResult < 6 && ntResult >= 3.5, 'nt-danger': ntResult >= 6}"
                             >${ ntResult | formatPredictDown }</div>
@@ -110,6 +111,7 @@ new Vue({
             ntResult: 0,
             imageCrop: null,
             maskCrop: null,
+            imageOriginal: null,
             fileNameImage: 'null',
             isEnableShowResult: false,
             isEnableLoading: false,
@@ -183,6 +185,7 @@ new Vue({
                     alert('Measurement of nuchal translucency success!');
                     this.isEnableShowResult = true;
                     this.ntResult = res.data;
+                    this.imageOriginal = "http://127.0.0.1:8000/media/results/nt-original.png?" + new Date().getTime();
                     this.imageCrop = "http://127.0.0.1:8000/media/results/nt-root-crop.png?" + new Date().getTime();
                     this.maskCrop = "http://127.0.0.1:8000/media/results/nt-root-pred.png?" + new Date().getTime();
                     this.allowUpload = true;
