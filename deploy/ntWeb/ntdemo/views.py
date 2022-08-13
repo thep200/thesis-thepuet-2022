@@ -13,7 +13,7 @@ thresh = 100
 DPI = [300]
 inch_to_mm = 25.4
 
-root_path = 'C:/Users/Thep Ho/Desktop/Thesis/deploy/ntWeb/media/results/'
+root_path = 'F:/7.Any-repo/thesis/deploy/ntWeb/media/results/'
 
 # Create your views here.
 def index(request):
@@ -70,7 +70,7 @@ def prepareImage(image_path):
     return single_img
 
 def unet_predict(image):
-    unet = keras.models.load_model('C:/Users/Thep Ho/Desktop/Thesis/exported-model/unet-256x256-dataAug-50ep-99%.h5')
+    unet = keras.models.load_model('F:/7.Any-repo/thesis/exported-model/unet-256x256-dataAug-50ep-99%.h5')
     img = image[np.newaxis, ...]
     pred_y = unet.predict(img)
     pred_mask = tf.argmax(pred_y[0], axis=-1)

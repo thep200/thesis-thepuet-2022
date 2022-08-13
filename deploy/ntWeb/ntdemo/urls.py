@@ -9,5 +9,3 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('upload', views.image_request, name = "image-request")
 ]
-
-# + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
