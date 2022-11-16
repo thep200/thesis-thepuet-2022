@@ -35,12 +35,12 @@ In order to be suitable for calculation and according to the majority of subject
 To perform unit conversion on pixel coordinates I use additional DPI property in image printing. Some illustrations of the results are as follows:\
 ![Measurement](./images/Minh-hoa-ket-qua-do.png)
 ## Deployment
-To make the measurement process practical, I deployed the model to the web platform, with a basic use case to better illustrate the process of the system.\
+To make the measurement process practical, I deployed the model to the web platform, with a basic user case to better illustrate the process of the system.\
 ![Deployment](./images/He-thong-web.png)\
 ![Deployment](./images/Bieu-do-tuan-tu.png)\
 ![Deployment](./images/Bieu-do-hoat-dong.png)\
 See more in video here:\
-[![IMAGE ALT TEXT HERE](./images/Thumbnail.png)](https://www.youtube.com/watch?v=fHg09hpbIPE)
+[![IMAGE ALT TEXT HERE](./images/Thumbnail.png)](https://www.youtube.com/watch?v=hWRb3QpTZ_Q)
 ## Results
 Result of first phase.\
 ![Results](./images/Ket-qua-pha-1.png)\
